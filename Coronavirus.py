@@ -301,7 +301,7 @@ plt.legend()
 
 
 # improve plotting
-# upload to github
+# next: add "small world" graph
 
 
 
